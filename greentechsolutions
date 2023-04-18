@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>GreenTech Solutions</title>
+</head>
+<style>
+	body {
+		background-image: url("https://cdn.wallpapersafari.com/65/69/Fsex26.png");
+		font-family: Arial, sans-serif;
+		font-size: 16px;
+		margin: 0;
+		padding: 0;
+	}
+	h1 {
+		color: #ffffff;
+		font-size: 32px;
+		text-align: center;
+		margin-top: 50px;
+	}
+	p {
+		margin-top: 20px;
+		font-size: 24px;
+		text-align: center;
+	}
+	img {
+		display: block;
+		margin: 0 auto;
+		width: 50%;
+		height: auto;
+	}
+</style>
+  
+
+<body>
+	<h1>Willkommen bei GreenTech Solutions!</h1>
+	<p style = "font-size: 30px; color: rgb(255, 255, 255)">English</p>
+
+	<img src="https://de.share-your-photo.com/img/d76fc5074e.jpg">
+
+
+	<p style = "font-size: 30px; color: rgb(255, 255, 255)">Deutsch</p>
+
+	<img src="https://de.share-your-photo.com/img/591d996db8.jpg">
+	
+</body>
+</html>
